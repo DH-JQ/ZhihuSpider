@@ -1,0 +1,2 @@
+python>=3.6.8
+selenium>=3.4.0
